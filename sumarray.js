@@ -14,4 +14,5 @@ const arr_1sum = sumArray(arr_1);
 const arr_2sum = sumArray(arr_2);
 const totalSum = arr_1sum + arr_2sum;
 console.log('totalsumvalue::',totalSum);
+// this is test
 
